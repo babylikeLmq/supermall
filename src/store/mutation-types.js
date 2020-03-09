@@ -1,0 +1,6 @@
+// export default ADD_COUNTER = "addCart"
+// export default ADD_TO_NEW_CART = "addToNewCart"
+// export const ADD_COUNTER = "addCart"
+// export const ADD_TO_NEW_CART = "addToNewCart"
+export const ADD_COUNTER = "add_cart"
+export const ADD_TO_NEW_CART = "add_to_new_cart"
